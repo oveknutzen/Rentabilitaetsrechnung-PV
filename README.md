@@ -40,6 +40,10 @@ max_profit.py: Berechnet den maximalen Profit.
 sensitivity_calculation.py: Führt die Sensitivitätsanalyse durch.
 ## Beitrag
 Wenn Sie zum Projekt beitragen möchten, sind Pull Requests und Issues im Repository willkommen.
+## Oberfläche
+![Streamlit App Oberfläche](Oberflaeche_Rent.png)
+![Ergebnisse](Ergebnisse_Rent.png)
+![Sensitivität Rentabilität](Rent_sens.png)
 
 ## Autoren
 Kim Ove Knutzen
